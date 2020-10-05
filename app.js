@@ -1,5 +1,5 @@
 files = {
-    "info.txt": "Hello there! I'm Luna and i love programming if you want to see my projects here is my <a href='https://github.com/RealCreepi'>Github</a>"
+    "info.txt": "Hello there! I'm Luna and i love programming if you want to see my projects here is my <a href='https://github.com/NotVasil'>Github</a>"
 }
 $('#crt').terminal({
     ls: function() {
